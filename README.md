@@ -1,4 +1,4 @@
-# Bangalore_price_predictor
+# Bangalore_house_price_predictor
 Bangalore_House_Price_Prediction
 A Machine Learning–Powered Web Application for Real Estate Price Estimation
 
